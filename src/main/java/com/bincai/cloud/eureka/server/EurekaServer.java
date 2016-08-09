@@ -1,9 +1,5 @@
-/**
- * eureka server
- * @author 52395090@qq.com
- * http://git.oschina.net/zhou666/spring-cloud-7simple
- */
-package com.bincai.cloud.cust.eureka;
+
+package com.bincai.cloud.eureka.server;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
