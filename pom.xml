@@ -2,19 +2,19 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.bincai.cloud</groupId>
-  <artifactId>cloud-cust-eureka</artifactId>
+  <groupId>com.self.activity</groupId>
+  <artifactId>self-activity-eureka</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>cloud-cust-eureka</name>
+  <name>self-activity-eureka</name>
   <url>http://maven.apache.org</url>
 
  <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.3.5.RELEASE</version>
-	</parent>
+</parent>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>

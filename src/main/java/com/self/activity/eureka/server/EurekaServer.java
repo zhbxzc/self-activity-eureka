@@ -1,5 +1,5 @@
 
-package com.bincai.cloud.eureka.server;
+package com.self.activity.eureka.server;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
